@@ -1,0 +1,17 @@
+
+struct PDF_Circle
+{
+	RealArray inCirclePosX
+	RealArray inCirclePosY
+	RealArray inCircleRadius
+	RealArray inCircleLineWidth
+}
+
+struct PDF_Rectangle
+{
+	RealArray RectanglePosX
+	RealArray RectanglePosY
+	RealArray RectangleWidth
+	RealArray RectangleHeight
+	RealArray RectangleLineWidth
+}

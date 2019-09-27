@@ -1,0 +1,6 @@
+
+enum deleteType
+{
+	byCreatedDate
+	byLastModifyDate
+}

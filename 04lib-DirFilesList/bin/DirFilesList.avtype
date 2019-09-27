@@ -1,0 +1,13 @@
+
+enum Factor 
+{
+	KB
+	MB
+	GB
+}
+
+enum SortType
+{
+	byFileSize
+	byLastModifyDate
+}
